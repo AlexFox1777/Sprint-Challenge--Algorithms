@@ -2,14 +2,19 @@
 
 ## Exercise I
 
-a)
+a) O(n)
 
 
-b)
+b) O(n)
 
 
-c)
+c) O(n)
 
 ## Exercise II
+Using binary search - O(log n)
 
+By dividing floors find f
+
+
+ 
 
